@@ -1,4 +1,4 @@
-# tHISISMIII_
+INTRODUCE ON HERE!
 #  Data & Statistical Analysis Portfolio
 
 Halo! Selamat datang di etalase portofolio analisis data saya. Saya berfokus pada pengolahan data statistik, visualisasi interaktif, dan pemodelan data.
